@@ -11,20 +11,20 @@ docker run -it bopt:v1
 - run the container with argument, ie:
 docker run -it bopt:v1 python experiments/minst.py --opt RMSprop
 
-The experiments/minst.py is the entry point of the app, you don't need to change. 
+- The experiments/minst.py is the entry point of the app, you don't need to change. 
 
-- The output of the app is:
+## The output of the app is:
 1. The loss over the training step
 2. The evalulation of the best model
 The output are in tensorboard, such as:
 
-Adam:
+- Adam:
 <p float="left">
 <img src="https://github.com/zzh237/la/blob/main/docs/result_exp_1.jpg" width="400" height="300">
 <img src="https://github.com/zzh237/la/blob/main/docs/result_exp_2.jpg" width="400" height="300">  
 </p>
 
-SGD:
+- SGD:
 <p float="left">
 <img src="https://github.com/zzh237/la/blob/main/docs/result_sgd_exp_1.jpg" width="400" height="300">
 <img src="https://github.com/zzh237/la/blob/main/docs/result_sgd_exp_2.jpg" width="400" height="300">  
