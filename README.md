@@ -1,7 +1,7 @@
 # la (Learning Algorithm)
 The bayesian optimization algorithms and experiments
 
-## for running, clone the repo to your local machine
+## For running, clone the repo to your local machine
 - build docker image:
 docker build -t bopt:v1 . 
 
