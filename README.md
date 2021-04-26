@@ -18,6 +18,10 @@ The output of the app is:
 2. The evalulation of the best model
 The output are in tensorboard, such as:
 
-
+Adam:
+<p float="left">
+<img src="https://github.com/zzh237/la/blob/main/docs/result_exp_1.jpg" width="500" height="400">
+<img src="https://github.com/zzh237/la/blob/main/docs/result_exp_2.jpg" width="500" height="400">  
+</p>
 
 
