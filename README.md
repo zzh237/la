@@ -19,5 +19,5 @@ The output of the app is:
 The output are in tensorboard, such as:
 
 
-
+![alt text](https://github.com/zzh237/la/blob/main/docs/result_exp_1.jpg)
 
