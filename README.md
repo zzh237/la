@@ -20,8 +20,15 @@ The output are in tensorboard, such as:
 
 Adam:
 <p float="left">
-<img src="https://github.com/zzh237/la/blob/main/docs/result_exp_1.jpg" width="500" height="400">
-<img src="https://github.com/zzh237/la/blob/main/docs/result_exp_2.jpg" width="500" height="400">  
+<img src="https://github.com/zzh237/la/blob/main/docs/result_exp_1.jpg" width="500" height="350">
+<img src="https://github.com/zzh237/la/blob/main/docs/result_exp_2.jpg" width="500" height="350">  
 </p>
+
+SGD:
+<p float="left">
+<img src="https://github.com/zzh237/la/blob/main/docs/result_SGD_exp_1.jpg" width="500" height="350">
+<img src="https://github.com/zzh237/la/blob/main/docs/result_SGD_exp_2.jpg" width="500" height="350">  
+</p>
+
 
 
