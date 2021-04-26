@@ -21,6 +21,6 @@ The output are in tensorboard, such as:
 
 <img src="https://github.com/zzh237/la/blob/main/docs/result_exp_1.jpg" width="300" height="300">
 
-<img src="https://github.com/zzh237/la/blob/main/docs/result_exp_2.jpg" width="300" height="300">
+<img src="https://github.com/zzh237/la/blob/main/docs/result_exp_2.jpg" width="600" height="300">
 
 
