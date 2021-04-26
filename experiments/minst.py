@@ -62,7 +62,6 @@ def main():
     
    
     args = parser.parse_args()
-    args.opt = 'Adam'
     args.target_param = 'layer1.0.weight'
     
     filename = os.path.basename(__file__)

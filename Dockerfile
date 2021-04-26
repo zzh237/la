@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM bopt:v1
 
 ADD . /projs/Bopt
 
