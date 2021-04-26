@@ -16,7 +16,7 @@ docker run -it bopt:v1 python experiments/minst.py --opt RMSprop
 ## The output of the app is:
 1. The loss over the training step
 2. The evalulation of the best model
-- The output are in tensorboard, such as:
+3. The output are in tensorboard, such as:
 
 - Adam:
 <p float="left">
